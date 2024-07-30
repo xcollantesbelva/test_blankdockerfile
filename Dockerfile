@@ -2,6 +2,8 @@ FROM --platform=linux/amd64 python:3.9-slim
 
 WORKDIR /app
 
+THIS IS SOME TEXT TO TRIGGER ERROR
+
 COPY . /app
 RUN pip install --no-cache-dir -r requirements.txt
 
