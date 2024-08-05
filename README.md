@@ -1,6 +1,6 @@
-# test_baddocker
+# test_blankdockerfile
 
-A public repo to test for Myio with malformed dockerfile.
+A public repo to test for Myio with blank dockerfile.
 
 ## Run
 
