@@ -1,6 +1,6 @@
-# test_publicrepo
+# test_baddocker
 
-A public repo to test for Myio.
+A public repo to test for Myio with malformed dockerfile.
 
 ## Run
 
